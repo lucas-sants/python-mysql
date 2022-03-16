@@ -1,0 +1,2 @@
+- open CMD on the directory of your project
+- enter the command: python archive.py
